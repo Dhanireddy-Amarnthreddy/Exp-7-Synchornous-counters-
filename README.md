@@ -86,22 +86,19 @@ endmodule
 ```
 ## RTL LOGIC UP COUNTER AND DOWN COUNTER
 ### UP Counter
-
-<img width="1130" alt="1" src="https://user-images.githubusercontent.com/94165103/198284444-edfab79e-f0fe-49f5-8de6-da11c8a177d1.png">
-
+<img width="1130" alt="1" src="https://user-images.githubusercontent.com/94165103/198289626-3da91c91-fad4-4964-9345-e7fbc35a235e.png">
 ### Down counter
-<img width="990" alt="2" src="https://user-images.githubusercontent.com/94165103/198284650-99b49df1-27f8-43eb-931a-388dee2318d6.png">
+<img width="990" alt="2" src="https://user-images.githubusercontent.com/94165103/198289782-24ac2455-eb2f-4e15-bc14-81a977f1573c.png">
+
 ## TIMING DIGRAMS FOR COUNTER
 ### UP Counter
-<img width="911" alt="3 1" src="https://user-images.githubusercontent.com/94165103/198286727-e243b8b3-79bd-46e0-9328-79ab6750389f.png">
-
+<img width="949" alt="3" src="https://user-images.githubusercontent.com/94165103/198289945-48284f1f-9b16-413e-9d61-b3683cc6f1c7.png">
 
 ### Down Counter
-![3 2](https://user-images.githubusercontent.com/94165103/198286815-7fb435cf-a32d-4be5-ae8f-3fc754610878.jpeg)
-
+<img width="926" alt="4" src="https://user-images.githubusercontent.com/94165103/198290092-503ee82f-bbd1-4cb5-a950-98c6c4a6845e.png">
 ## TRUTH TABLE
 ### UP Counter
-![4](https://user-images.githubusercontent.com/94165103/198285370-16164ac5-7aef-4a67-b818-83d338945d50.jpeg)
+<img width="578" alt="5" src="https://user-images.githubusercontent.com/94165103/198290180-62ad9ac5-e0ea-4c95-bb77-3a0bb4594faf.png">
 ### Down Counter
 <img width="860" alt="5" src="https://user-images.githubusercontent.com/94165103/198285550-b11deca2-7c9d-462d-a409-9b34922122bf.png">
 ## Result
