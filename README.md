@@ -93,9 +93,12 @@ endmodule
 <img width="990" alt="2" src="https://user-images.githubusercontent.com/94165103/198284650-99b49df1-27f8-43eb-931a-388dee2318d6.png">
 ## TIMING DIGRAMS FOR COUNTER
 ### UP Counter
-![3](https://user-images.githubusercontent.com/94165103/198284944-45c6e491-b8a7-4194-9ac2-4f8ac586d18f.jpeg)
+<img width="911" alt="3 1" src="https://user-images.githubusercontent.com/94165103/198286727-e243b8b3-79bd-46e0-9328-79ab6750389f.png">
+
+
 ### Down Counter
-![4](https://user-images.githubusercontent.com/94165103/198285131-88f755bb-2082-4db6-a256-54952a49e9f5.jpeg)
+![3 2](https://user-images.githubusercontent.com/94165103/198286815-7fb435cf-a32d-4be5-ae8f-3fc754610878.jpeg)
+
 ## TRUTH TABLE
 ### UP Counter
 ![4](https://user-images.githubusercontent.com/94165103/198285370-16164ac5-7aef-4a67-b818-83d338945d50.jpeg)
