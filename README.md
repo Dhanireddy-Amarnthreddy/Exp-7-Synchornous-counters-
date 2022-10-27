@@ -86,7 +86,9 @@ endmodule
 ```
 ## RTL LOGIC UP COUNTER AND DOWN COUNTER
 ### UP Counter
+
 <img width="1130" alt="1" src="https://user-images.githubusercontent.com/94165103/198284444-edfab79e-f0fe-49f5-8de6-da11c8a177d1.png">
+
 ### Down counter
 <img width="990" alt="2" src="https://user-images.githubusercontent.com/94165103/198284650-99b49df1-27f8-43eb-931a-388dee2318d6.png">
 ## TIMING DIGRAMS FOR COUNTER
@@ -110,18 +112,3 @@ The 4 bit up and down counters has been implemented and validated the functional
 
 
 
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
-### TRUTH TABLE 
-
-
-
-
-
-
-### RESULTS 
